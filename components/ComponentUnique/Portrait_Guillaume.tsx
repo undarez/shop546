@@ -11,7 +11,7 @@ const Portrait_Guillaume = () => {
           <CardDescription>Presentation de Guillaume 546 Tattoo</CardDescription>
         </CardHeader>
         <CardContent className="flex flex-col md:flex-row  p-10 m-auto justify-center items-center">
-          <div className="flex items-center justify-center rounded-lg shadow-lg shadow-blue-500/50  md:w-1/2 lg:w-1/3 overflow-hidden sm:shadow-blue-500/50 sm:w-50">
+          <div className="flex items-center justify-center rounded-lg shadow-lg  shadow-blue-500/50 m-10  overflow-hidden ">
             <Image
               src="/assets/guillaume.jpg"
               alt="guillaume le tatoueur"
